@@ -1,5 +1,6 @@
 # learningtypescript
 ## 목차
+  * [[typescript란?|WhatIsTypeScript]]
   * Tool과 프레임워크 선택하기
   * 타입, 변수 그리고 함수
   * Interface, Class 그리고 Generics
